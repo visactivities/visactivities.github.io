@@ -63,13 +63,25 @@ Any submission—research, activity, or material—will be peer-reviewed, provid
 * August 3, 2020: Author Notification
 * August 17, 2020: Submission Camera Ready Deadline
 
+## Workshop outline
+
+__Paper Presentations & Discussion__
+__Activity session__ 
+* Warm up activity
+* Identifying activities challenges
+* Voting and grouping on challenges
+* Creating & discussing activities
+* Testing the activities
+* Reflection and discussion
+* Discussion and Wrapping-up
+
 ## Organizers
 
 * [Samuel Huron](https://perso.telecom-paristech.fr/shuron/#!index.md), Telecom Paris, Institut Polytechnique de Paris
 * [Benjamin Bach](http://benjbach.me), University of Edinburgh 
-* Uta Hinrichs, University of St. Andrews
-* Jonathan C. Roberts, Bangor University
-* Mandy Keck, Technische Universität Dresden
+* [Uta Hinrichs](http://utahinrichs.de), University of St. Andrews
+* [Jonathan C. Roberts](https://www.bangor.ac.uk/computer-science-and-electronic-engineering/staff/jonathan-roberts/en), Bangor University
+* [Mandy Keck](http://www.visual-search.org), Technische Universität Dresden
 
 
 
