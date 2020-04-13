@@ -1,5 +1,3 @@
-# IEEE VIS Workshop on Data Vis Activities to Facilitate Learning, Reflecting, Discussing, and Designing
-
 This workshop focuses on _data-visualization activities_, especially methods and challenges for teaching and engaging with data visualization concepts, knowledge, and practices. 
 
 For example
