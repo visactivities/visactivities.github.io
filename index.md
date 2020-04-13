@@ -13,10 +13,10 @@ However, the  broad  range of contexts and  target audiences that Data-Vis activ
 
 The goals of this workshop are
 
-* i) start building an understanding and to synthesize protocols and materials used to lead data vis activities,
-* ii)to bring together researchers, practitioners, and educators from within and outside of the visualization community,
-* iii)brainstorm, design, experience, and try novel activities, and to 
-* iv)discuss issues around goals, methods, audiences, materials, andevaluation for teaching data visualization.
+* start __building an understanding__ and to synthesize protocols and materials used to lead data vis activities,
+* to __bring together__ researchers, practitioners, and educators from within and outside of the visualization community,
+* __brainstorm, design__, experience, and try novel activities, and to 
+* __discuss issues__ around goals, methods, audiences, materials, andevaluation for teaching data visualization.
 
 Download our [full proposal here](VIS2020_Teaching_Workshop.pdf)
 
