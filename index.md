@@ -80,7 +80,11 @@ __Activity session__
 
 ## Program Committee
 
-<pending>
+* Jan Aerts, Universiteit Hasselt, Belgium
+* Lyn Bartram, Simon Frasor University, Canada
+* Aba-Sah Dadzie, University of Edinburgh, UK
+* Till Nagel, Hochschule Mannheim, Germany
+* <pending>
 
 ## Organizers
 
