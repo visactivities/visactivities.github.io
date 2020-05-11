@@ -84,7 +84,7 @@ __Activity session__
 * Lyn Bartram, Simon Frasor University, Canada
 * Aba-Sah Dadzie, University of Edinburgh, UK
 * Till Nagel, Hochschule Mannheim, Germany
-* <pending>
+* ... pending
 
 ## Organizers
 
