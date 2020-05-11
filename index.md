@@ -40,7 +40,7 @@ __Activities__ include
 * reports and 
 * experiences about one or many teaching activities, e.g., protocol and material of activities including results and reflections. 
 
-As part of the call, we will provide a [template to report and explain an activity](activity-template.html). Activities should be in PDF format and will be published in this format on the workshop website. This template will be subject to discussion by the workshop participants during the workshop.
+As part of the call, we will provide a [template to report and explain an activity](activity-template). Activities should be in PDF format and will be published in this format on the workshop website. This template will be subject to discussion by the workshop participants during the workshop.
 
 __Materials__ include new teaching material that supports teaching in general and which is ready for application 
 * slides, 
