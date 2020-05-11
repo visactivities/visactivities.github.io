@@ -40,6 +40,7 @@ __Activities__ include
 * reports and 
 * experiences about one or many teaching activities, e.g., protocol and material of activities including results and reflections. 
 
+
 As part of the call, we will provide a [template to report and explain an activity](activity-template). Activities should be in PDF format and will be published in this format on the workshop website. This template will be subject to discussion by the workshop participants during the workshop.
 
 __Materials__ include new teaching material that supports teaching in general and which is ready for application 
@@ -53,6 +54,7 @@ __Materials__ include new teaching material that supports teaching in general an
   * programming tutorials
   * ... 
   
+
 A material submission should not exceed __2 pages text plus appendix and supplementary material__ (e.g., graphics, videos, websites). The 2 pages should describe context, design decisions, associated or possible activities, and reflections or evaluations from their application. The actual material is to be included as supplementary material and can be presented as poster at the workshop.
 
 Any submission—research, activity, or material—will be peer-reviewed, providing constructive feedback for the camera-ready version. All submissions will be published on and linked from our website. On submission, authors have to choose whether their a successful submission should be made archival or should only be available on the workshop website.
