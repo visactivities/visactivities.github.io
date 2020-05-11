@@ -78,6 +78,10 @@ __Activity session__
 * Reflection and discussion
 * Discussion and Wrapping-up
 
+## Program Committee
+
+<pending>
+
 ## Organizers
 
 * [Samuel Huron](https://perso.telecom-paristech.fr/shuron/#!index.md), Telecom Paris, Institut Polytechnique de Paris
