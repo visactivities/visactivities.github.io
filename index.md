@@ -83,8 +83,10 @@ __Activity session__
 * Jan Aerts, Universiteit Hasselt, Belgium
 * Lyn Bartram, Simon Frasor University, Canada
 * Aba-Sah Dadzie, University of Edinburgh, UK
+* Sara Goodwin, Monash University, Australia
 * Till Nagel, Hochschule Mannheim, Germany
 * Charles Perin, University of Victoria, Canada
+* Jagoda Walny, 
 * ... pending
 
 ## Organizers
