@@ -86,7 +86,7 @@ __Activity session__
 * Sara Goodwin, Monash University, Australia
 * Till Nagel, Hochschule Mannheim, Germany
 * Charles Perin, University of Victoria, Canada
-* Jagoda Walny, 
+* Jagoda Walny, Canada Energy Regulator, Canada 
 * ... pending
 
 ## Organizers
