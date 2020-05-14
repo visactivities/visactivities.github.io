@@ -87,7 +87,7 @@ __Activity session__
 * Sara Goodwin, Monash University, Australia
 * Till Nagel, Hochschule Mannheim, Germany
 * Charles Perin, University of Victoria, Canada
-* Arran Ridley, University of Leeds, University of Edinburgh, UK
+* Arran Ridley, University of Leeds, University of Edinburgh, UK, Fachhochschule Potsdam, Germany
 * Jon Schwabish, Urban Institute, USA
 * Jagoda Walny, Canada Energy Regulator, Canada 
 * Zezhong Wang, University of Edinburgh, UK
