@@ -84,6 +84,7 @@ __Activity session__
 * Lyn Bartram, Simon Frasor University, Canada
 * Rahul Bhargava, MIT, USA
 * Aba-Sah Dadzie, University of Edinburgh, UK
+* Marian Dörk, Fachhochschule Potsdam, Germany
 * Sara Goodwin, Monash University, Australia
 * Till Nagel, Hochschule Mannheim, Germany
 * Charles Perin, University of Victoria, Canada
