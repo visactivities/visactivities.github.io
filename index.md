@@ -86,6 +86,7 @@ __Activity session__
 * Aba-Sah Dadzie, University of Edinburgh, UK
 * Marian Dörk, Fachhochschule Potsdam, Germany
 * Sara Goodwin, Monash University, Australia
+* Isabel Meirelles Northeastern University, USA
 * Till Nagel, Hochschule Mannheim, Germany
 * Charles Perin, University of Victoria, Canada
 * Arran Ridley, University of Leeds, University of Edinburgh, UK, Fachhochschule Potsdam, Germany
