@@ -82,6 +82,7 @@ __Activity session__
 
 * Jan Aerts, Universiteit Hasselt, Belgium
 * Lyn Bartram, Simon Frasor University, Canada
+* Anastasia Bezerianos, LRI-Université Paris-Saclay, France
 * Rahul Bhargava, MIT, USA
 * Aba-Sah Dadzie, University of Edinburgh, UK
 * Marian Dörk, Fachhochschule Potsdam, Germany
