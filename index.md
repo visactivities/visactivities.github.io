@@ -20,7 +20,7 @@ Download our [full proposal here](VIS2020_Teaching_Workshop.pdf)
 
 ## Topics and Submissions: 
 
-* Style: standard IEEE style
+* Style: [standard IEEE style](http://vgtc.org/publications/journal)
 * Submission: [PCS](https://new.precisionconference.com)
 
 __Research__ refers to classical workshop papers with a scientific contribution in theory, reflection, application, evaluation, design, or implementation. Page length will be limited to 4 pages. Contributions can include: 
