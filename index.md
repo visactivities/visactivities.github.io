@@ -61,10 +61,10 @@ Any submission—research, activity, or material—will be peer-reviewed, provid
 
 ## Timeline:
 
-* July 4, 2020: Submission Deadline
-* July 25, 2020: Reviews Collected
-* August 3, 2020: Author Notification
-* August 17, 2020: Submission Camera Ready Deadline
+* July 20, 2020: Submission Deadline
+* August 10, 2020: Reviews Collected
+* August 20, 2020: Author Notification
+* September 7, 2020: Submission Camera Ready Deadline
 
 ## Workshop outline
 
