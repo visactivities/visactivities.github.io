@@ -3,7 +3,7 @@ This workshop focuses on _data-visualization activities_, especially methods and
 For example
 * sketching aids designers to consider alternative ideas; 
 * manipulating tokens help students conceptualize quantities for data visualization; 
-* user interviews anddiscussionshelp developers understand requirements. 
+* user interviews and discussions help developers understand requirements. 
 
 Workshops, classes, or collaborations with domain experts, often include hands-on data visualization activities that involve analog ordigital tools and materials and more or less well defined protocols. Recent years have seen the emergence of such data visualizationactivities in different contexts, including education, visualization design, activism, self-reflection, and interdisciplinary collaboration. 
 
@@ -80,21 +80,21 @@ __Activity session__
 
 ## Program Committee
 
-* Jan Aerts, Universiteit Hasselt, Belgium
-* Lyn Bartram, Simon Frasor University, Canada
-* Anastasia Bezerianos, LRI-Université Paris-Saclay, France
+* Lyn Bartram, Simon Fraser University, Canada
+* Anastasia Bezerianos, Université Paris-Saclay, France
 * Rahul Bhargava, MIT, USA
-* Aba-Sah Dadzie, University of Edinburgh, UK
-* Marian Dörk, Fachhochschule Potsdam, Germany
-* Sara Goodwin, Monash University, Australia
-* Isabel Meirelles Northeastern University, USA
-* Till Nagel, Hochschule Mannheim, Germany
+* Marian Dörk, University of Applied Sciences Potsdam, Germany
+* Sarah Goodwin, Monash University, Australia
+* Kyle Hall, Temple University, USA
+* Petra Isenberg, Université Paris-Saclay, France
+* Isabel Meirelles, OCAD University, Canada
+* Till Nagel, University of Applied Sciences Mannheim, Germany
 * Charles Perin, University of Victoria, Canada
-* Arran Ridley, University of Leeds, University of Edinburgh, UK, Fachhochschule Potsdam, Germany
+* Arran Ridley, University of Leeds, UK
 * Jon Schwabish, Urban Institute, USA
-* Jagoda Walny, Canada Energy Regulator, Canada 
+* Romain Vuillemot, LIRIS, Ecole Centrale de Lyon, France
+* Jagoda Walny, University of Calgary, Canada
 * Zezhong Wang, University of Edinburgh, UK
-* ... pending
 
 ## Organizers
 
