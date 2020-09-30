@@ -26,15 +26,15 @@ It will happen remotely on a zoom session. The schedule will be split in two ses
 
 * __Session 1 - Paper Presentation - (1h30 minutes)__
   * Presentation & introduction of the workshop (~ 15 minutes)
-    * Teaching Data Viz to Kids - Jonathan Schwabish, PhD, Urban Institute (5 minutes)
-    * The VisTools Marketplace: An Activity to Understand the Landscape of Visualisation Tools - Arran Ridley, Sarah Schöttler, Aba-Sah Dadzie, Benjamin Bach (5 minutes)
-    * Surfacing Misconceptions Through Visualization Critique -  Amy Rae Fox, Taylor Jackson Scott   (5 minutes)
-    * GoCo: A Gamified Activity for Winnowing Visualization Projects with Interdisciplinary  -  Experts, Georgia Panagiotidou, Jan Aerts, Andrew Vande Moere  (5 minutes)
+    *  [Teaching Data Viz to Kids - Jonathan Schwabish, PhD, Urban Institute](papers/7405-Schwabish-Jonathan.pdf) (5 minutes)
+    * [The VisTools Marketplace: An Activity to Understand the Landscape of Visualisation Tools - Arran Ridley, Sarah Schöttler, Aba-Sah Dadzie, Benjamin Bach](papers/1412-Ridley-Arran.pdf)  (5 minutes)
+    * [Surfacing Misconceptions Through Visualization Critique -  Amy Rae Fox, Taylor Jackson Scott](papers/2156-Fox-Amy.pdf) (5 minutes)
+    * [GoCo: A Gamified Activity for Winnowing Visualization Projects with Interdisciplinary  -  Experts, Georgia Panagiotidou, Jan Aerts, Andrew Vande Moere](papers/2154-Panagiotidou-Georgia.pdf)  (5 minutes)
   * Collective __Question & Answers__ on the first group of  papers - 15 minutes 
-    * Pandemic Pedagogy: Taking Data-Viz Learning Online,  Rahul Bhargava (5 minutes)
-    * Data Crafting: Exploring Data Through Craft And Play Nathalie Alexandra Vladis, Aspen K. Hopkins, Arvind Satyanarayan, (5 minutes) 
-    *  Visualization Improvisation -  Swaroop Panda, Shatarupa Thakurta Roy (5 minutes)
-    *  Design Sprints for Online and On-Campus Visualization Courses -   Johanna Beyer, Hanspeter Pfister (5 minutes)
+    * [Pandemic Pedagogy: Taking Data-Viz Learning Online,  Rahul Bhargava](papers/2067-Bhargava-Rahul.pdf) (5 minutes)
+    * [Data Crafting: Exploring Data Through Craft And Play Nathalie Alexandra Vladis, Aspen K. Hopkins, Arvind Satyanarayan](papers/3670-Hopkins-Aspen-1column.pdf), (5 minutes) 
+    *  [Visualization Improvisation -  Swaroop Panda, Shatarupa Thakurta Roy](#) (5 minutes)
+    *  [Design Sprints for Online and On-Campus Visualization Courses -  Johanna Beyer, Hanspeter Pfister](papers/9456-Beyer-Johanna.pdf) (5 minutes)
   * Collective __Question & Answers__ on the first group of  papers - 15 minutes 
 * __Session 2 - Paper Presentation  - (1h30 minutes)__
   * Introduction of the session			(~ 5 minutes)
