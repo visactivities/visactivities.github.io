@@ -1,4 +1,4 @@
-This workshop focuses on _data-visualization activities_, especially methods and challenges for teaching and engaging with data visualization concepts, knowledge, and practices. 
+This workshop focuses on _data-visualization activities_, especially methods and challenges for teaching and engaging with data visualization concepts, knowledge, and practices. The workshop will take place online on __Monday Oct 26, 8:00am-11:25am (Mountain Time - USA)__. To access the workshop you can register on [IEEE VIS WEBSITE](http://ieeevis.org/year/2020/info/registration/conference-registration).
 
 For example
 * sketching aids designers to consider alternative ideas; 
@@ -17,6 +17,49 @@ The goals of this workshop are
 * __discuss issues__ around goals, methods, audiences, materials, andevaluation for teaching data visualization.
 
 Download our [full proposal here](VIS2020_Teaching_Workshop.pdf)
+
+## Papers: 
+
+We are delighted to present the paper that have been accepted to the workshop :  
+
+* [Data Crafting: Exploring Data Through Craft And Play Nathalie Alexandra Vladis, Aspen K. Hopkins, Arvind Satyanarayan](papers/3670-Hopkins-Aspen-1column.pdf)
+* [Design Sprints for Online and On-Campus Visualization Courses -  Johanna Beyer, Hanspeter Pfister](papers/9456-Beyer-Johanna.pdf)
+* [GoCo: A Gamified Activity for Winnowing Visualization Projects with Interdisciplinary  -  Experts, Georgia Panagiotidou, Jan Aerts, Andrew Vande Moere](papers/2154-Panagiotidou-Georgia.pdf)
+* [Pandemic Pedagogy: Taking Data-Viz Learning Online,  Rahul Bhargava](papers/2067-Bhargava-Rahul.pdf)
+* [Surfacing Misconceptions Through Visualization Critique -  Amy Rae Fox, Taylor Jackson Scott](papers/2156-Fox-Amy.pdf) 
+* [Teaching Data Viz to Kids - Jonathan Schwabish, PhD, Urban Institute](papers/7405-Schwabish-Jonathan.pdf)
+* [The VisTools Marketplace: An Activity to Understand the Landscape of Visualisation Tools - Arran Ridley, Sarah Schöttler, Aba-Sah Dadzie, Benjamin Bach](papers/1412-Ridley-Arran.pdf) 
+* [Visualization Improvisation -  Swaroop Panda, Shatarupa Thakurta Roy]()
+
+## Schedule:
+
+Vis activities will take place on __Monday Oct 26, 8:00am-11:25am (Mountain Time - USA)__ 
+It will happen remotely on a zoom session. The schedule will be split in two sessions, as described below. The first session will be a paper presentation session, the second will be discussion on various topics related to Vis activities and Vis teaching. For this second session we are seeking topics that may interest you for the discussion, we have a lot of them, but we would like to have some emerging from the community. __So please during every session you can add some questions or remarks or topic suggestions to discuss on the collective note taking document__ that will be provide at the begining of the first session.  We will go through the question during the Q&A sessions and go throughout the topic suggestions during the second session. Thanks a lot ! 
+
+
+* Session 1 - Paper Presentation - (1h30 minutes)
+
+*** Teaching Data Viz to Kids - Jonathan Schwabish, PhD, Urban Institute (5 minutes)
+*** The VisTools Marketplace: An Activity to Understand the Landscape of Visualisation Tools - Arran Ridley, Sarah Schöttler, Aba-Sah Dadzie, Benjamin Bach (5 minutes)
+*** Surfacing Misconceptions Through Visualization Critique -  Amy Rae Fox, Taylor Jackson Scott   (5 minutes)
+** GoCo: A Gamified Activity for Winnowing Visualization Projects with Interdisciplinary  -  Experts, Georgia Panagiotidou, Jan Aerts, Andrew Vande Moere  (5 minutes)
+** Collective __Question & Answers__ on the first group of  papers - 15 minutes 
+*** Pandemic Pedagogy: Taking Data-Viz Learning Online,  Rahul Bhargava (5 minutes)
+*** Data Crafting: Exploring Data Through Craft And Play Nathalie Alexandra Vladis, Aspen K. Hopkins, Arvind Satyanarayan, (5 minutes) 
+***  Visualization Improvisation -  Swaroop Panda, Shatarupa Thakurta Roy (5 minutes)
+***  Design Sprints for Online and On-Campus Visualization Courses -   Johanna Beyer, Hanspeter Pfister (5 minutes)
+** Collective __Question & Answers__ on the first group of  papers - 15 minutes 
+
+* __Session 2 - Paper Presentation  - (1h30 minutes)__
+
+** Introduction of the session			(~ 5 minutes)
+** Break out session work 			    (30 minutes)
+** Report & presentation on breakout session 	(30 minutes)
+** Community building/discussion		(15 minutes)
+** Conclusion and future announcement 	(5 minutes)
+
+
+
 
 ## Topics and Submissions: 
 
