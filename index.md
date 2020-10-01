@@ -47,7 +47,8 @@ It will happen remotely on a zoom session. The schedule will be split in two ses
 
 ## Papers: 
 
-We are delighted to present the paper that have been accepted to the workshop :  
+We are delighted to present the paper that have been accepted to the workshop : 
+You can download a full archive with all the paper at [this link](papers/2020-Vis-activities-Archive.zip). 
 
 * [Data Crafting: Exploring Data Through Craft And Play Nathalie Alexandra Vladis, Aspen K. Hopkins, Arvind Satyanarayan](papers/3670-Hopkins-Aspen-1column.pdf)
 * [Design Sprints for Online and On-Campus Visualization Courses -  Johanna Beyer, Hanspeter Pfister](papers/9456-Beyer-Johanna.pdf)
