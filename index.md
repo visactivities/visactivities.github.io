@@ -21,7 +21,7 @@ Download our [full proposal here](VIS2020_Teaching_Workshop.pdf)
 ## Schedule:
 
 Vis activities will take place on __Monday Oct 26, 8:00am-11:25am (Mountain Time - USA)__ 
-It will happen remotely on a zoom session. The schedule will be split in two sessions, as described below. The first session will be a paper presentation session, the second will be discussion on various topics related to Vis activities and Vis teaching. For this second session we are seeking topics that may interest you for the discussion, we have a lot of them, but we would like to have some emerging from the community. __So please during every session you can add some questions or remarks or topic suggestions to discuss on the collective note taking document__ that will be provide at the begining of the first session.  We will go through the question during the Q&A sessions and go throughout the topic suggestions during the second session. Thanks a lot ! 
+It will happen remotely on a zoom session. The schedule will be split in two sessions, as described below. The first session will be a paper presentation session, the second will be discussion on various topics related to Vis activities and Vis teaching. For this second session we are seeking topics that may interest you for the discussion, we have a lot of them, but we would like to have some emerging from the community. __So please during every session you can add some questions or remarks or topic suggestions to discuss on the collective note taking document__ that will be provide at the begining of the first session.  We will go through the question during the Q&A sessions and go throughout the topic suggestions during the second session. 
 
 
 * __Session 1 - Paper Presentation - (1h30 minutes)__
@@ -33,7 +33,7 @@ It will happen remotely on a zoom session. The schedule will be split in two ses
   * Collective __Question & Answers__ on the first group of  papers - 15 minutes 
     * [Pandemic Pedagogy: Taking Data-Viz Learning Online,  Rahul Bhargava](papers/2067-Bhargava-Rahul.pdf) (5 minutes)
     * [Data Crafting: Exploring Data Through Craft And Play Nathalie Alexandra Vladis, Aspen K. Hopkins, Arvind Satyanarayan](papers/3670-Hopkins-Aspen-1column.pdf), (5 minutes) 
-    *  [Visualization Improvisation -  Swaroop Panda, Shatarupa Thakurta Roy](#) (5 minutes)
+    *  [Visualization Improvisation -  Swaroop Panda, Shatarupa Thakurta Roy](papers/vis20s-sub3029-cam-i26-footer.pdf) (5 minutes)
     *  [Design Sprints for Online and On-Campus Visualization Courses -  Johanna Beyer, Hanspeter Pfister](papers/9456-Beyer-Johanna.pdf) (5 minutes)
   * Collective __Question & Answers__ on the first group of  papers - 15 minutes 
 * __Session 2 - Paper Presentation  - (1h30 minutes)__
@@ -56,7 +56,7 @@ We are delighted to present the paper that have been accepted to the workshop :
 * [Surfacing Misconceptions Through Visualization Critique -  Amy Rae Fox, Taylor Jackson Scott](papers/2156-Fox-Amy.pdf) 
 * [Teaching Data Viz to Kids - Jonathan Schwabish, PhD, Urban Institute](papers/7405-Schwabish-Jonathan.pdf)
 * [The VisTools Marketplace: An Activity to Understand the Landscape of Visualisation Tools - Arran Ridley, Sarah Schöttler, Aba-Sah Dadzie, Benjamin Bach](papers/1412-Ridley-Arran.pdf) 
-* [Visualization Improvisation -  Swaroop Panda, Shatarupa Thakurta Roy]()
+* [Visualization Improvisation -  Swaroop Panda, Shatarupa Thakurta Roy](papers/vis20s-sub3029-cam-i26-footer.pdf)
 
 
 
