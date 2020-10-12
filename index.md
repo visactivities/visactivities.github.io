@@ -15,7 +15,7 @@ The goals of this workshop are:
 
 ## Schedule:
 
-_The workshop will take place online on __Monday Oct 26, 8:00am-11:25am (Mountain Time, USA)__. To access the workshop you can register on [IEEE VIS WEBSITE](http://ieeevis.org/year/2020/info/registration/conference-registration)._
+_The workshop will take place online on __Monday Oct 26, 8:00am-11:25am (Mountain Time, USA)__. To access the workshop you can register __for free__ on [IEEE VIS WEBSITE](http://ieeevis.org/year/2020/info/registration/conference-registration)._
 
 The schedule is split into two sessions. The first session features paper presentations; the second feaures a hands-on discussion on topics related to Vis activities and Vis teaching and aims to create and discuss (novel) vis activities. As we are seeking topics from the community, __please add any questions, remarks or topics to the collective note taking document__ during the paper sessions. We use these notes to inform the Q&A sessions and the discussion in part II of the workshop.
 
