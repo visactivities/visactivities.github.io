@@ -17,9 +17,9 @@ _The workshop will take place online on __Monday Oct 26, 8:00am-11:25am (Mountai
 
 The schedule is split into two sessions. The first session features paper presentations; the second feaures a hands-on discussion on topics related to Vis activities and Vis teaching and aims to create and discuss (novel) vis activities. As we are seeking topics from the community, __please add any questions, remarks or topics to the collective note taking document__ during the paper sessions. We use these notes to inform the Q&A sessions and the discussion in part II of the workshop.
 
-#### 8:00: __Presentation & introduction of the workshop__ (15 minutes)
+#### 8:00: __Presentation & introduction of the workshop__
 
-#### 8:15: __Session 1 - Paper Presentation (1h30 minutes)__
+#### 8:15: __Session 1 - Paper Presentation__
 * [Teaching Data Viz to Kids](papers/7405-Schwabish-Jonathan.pdf); _Jonathan Schwabish_ (5 minutes)
 * [The VisTools Marketplace: An Activity to Understand the Landscape of Visualisation Tools](papers/1412-Ridley-Arran.pdf); Arran Ridley, Sarah Schöttler, Aba-Sah Dadzie, Benjamin Bach_ (5 minutes)
 * [Surfacing Misconceptions Through Visualization Critique](papers/2156-Fox-Amy.pdf): _Amy Rae Fox, Taylor Jackson Scott_ (5 minutes)
@@ -33,7 +33,7 @@ The schedule is split into two sessions. The first session features paper presen
 * Collective __Question & Answers__ on the first group of  papers (15 minutes)
 
 #### 9:30: __Break__
-#### 10:00: __Session 2 - Paper Presentation  - (1h30 minutes)__
+#### 10:00: __Session 2 - Creating and Discussing VisActivities__
 * Introduction of the session			(~ 5 minutes)
 * Break out session work 			    (30 minutes) 
 * Report & presentation on breakout session 	(30 minutes)
