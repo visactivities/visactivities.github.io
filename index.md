@@ -2,7 +2,8 @@
 
 This workshop on _Data Vis Activities to Facilitate Learning, Reflecting, Discussing, and Designing_ focuses on __data-visualization activities__, especially methods and challenges for teaching and engaging with data visualization concepts, knowledge, and practices. A [CG&A Special Issue on Visualization Education and Teaching Visualization Literacy](https://www.computer.org/digital-library/magazines/cg/call-for-papers-special-issue-on-visualization-education-and-teaching-visualization-literacy) is scheduled for 2021 and has its deadline on April-28, 2021. We welcome submissions from across the fields. 
 
-Workshops, classes, or collaborations with domain experts, often include hands-on data visualization activities that involve analog ordigital tools and materials and more or less well defined protocols. Recent years have seen the emergence of such data visualizationactivities in different contexts, including education, visualization design, activism, self-reflection, and interdisciplinary collaboration. However, the  broad  range of contexts and  target audiences that Data-Vis activities have been applied to makes it difficult to collectand identify commonalities and build knowledge in a systematic way. 
+## Topics & Goals:
+Workshops, classes, or collaborations with domain experts, often include hands-on data visualization activities that involve analog ordigital tools and materials and more or less well defined protocols. Recent years have seen the emergence of such data visualizationactivities in different contexts, including education, visualization design, activism, self-reflection, and interdisciplinary collaboration. However, the  broad  range of contexts and  target audiences that Data-Vis activities have been applied to makes it difficult to collectand identify commonalities and build knowledge in a systematic way. Download our [full proposal here](VIS2020_Teaching_Workshop.pdf).
 
 The goals of this workshop are:
 
@@ -11,7 +12,6 @@ The goals of this workshop are:
 * __brainstorm, design__, experience, and try novel activities, and to 
 * __discuss issues__ around goals, methods, audiences, materials, andevaluation for teaching data visualization.
 
-Download our [full proposal here](VIS2020_Teaching_Workshop.pdf).
 
 ## Schedule:
 
