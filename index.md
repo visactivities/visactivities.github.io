@@ -24,12 +24,14 @@ The schedule is split into two sessions. The first session features paper presen
 * [The VisTools Marketplace: An Activity to Understand the Landscape of Visualisation Tools](papers/1412-Ridley-Arran.pdf); Arran Ridley, Sarah Schöttler, Aba-Sah Dadzie, Benjamin Bach_ (5 minutes)
 * [Surfacing Misconceptions Through Visualization Critique](papers/2156-Fox-Amy.pdf): _Amy Rae Fox, Taylor Jackson Scott_ (5 minutes)
 * [GoCo: A Gamified Activity for Winnowing Visualization Projects with Interdisciplinary](papers/2154-Panagiotidou-Georgia.pdf): _Georgia Panagiotidou, Jan Aerts, Andrew Vande Moere_ (5 minutes)
-* 8:35-8:50: Collective __Question & Answers__ on the first group of  papers (15 minutes) 
+
+* 8:35-8:50: Collective __Question & Answers__ on the first group of  papers
   
 * [Pandemic Pedagogy: Taking Data-Viz Learning Online](papers/2067-Bhargava-Rahul.pdf): _Rahul Bhargava_ (5 minutes)
 * [Data Crafting: Exploring Data Through Craft And Play](papers/3670-Hopkins-Aspen-1column.pdf): _Nathalie Alexandra Vladis, Aspen K. Hopkins, Arvind Satyanarayan_ (5 minutes) 
-*  [Visualization Improvisation](papers/vis20s-sub3029-cam-i26-footer.pdf):_Swaroop Panda, Shatarupa Thakurta Roy_ (5 minutes)
-*  [Design Sprints for Online and On-Campus Visualization Courses](papers/9456-Beyer-Johanna.pdf):_Johanna Beyer, Hanspeter Pfister_ (5 minutes)
+* [Visualization Improvisation](papers/vis20s-sub3029-cam-i26-footer.pdf):_Swaroop Panda, Shatarupa Thakurta Roy_ (5 minutes)
+* [Design Sprints for Online and On-Campus Visualization Courses](papers/9456-Beyer-Johanna.pdf):_Johanna Beyer, Hanspeter Pfister_ (5 minutes)
+
 * Collective __Question & Answers__ on the first group of  papers (15 minutes)
 
 #### 9:30: __Break__
