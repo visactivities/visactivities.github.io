@@ -17,31 +17,31 @@ _The workshop will take place online on __Monday Oct 26, 8:00am-11:25am (Mountai
 
 The schedule is split into two sessions. The first session features paper presentations; the second feaures a hands-on discussion on topics related to Vis activities and Vis teaching and aims to create and discuss (novel) vis activities. As we are seeking topics from the community, __please add any questions, remarks or topics to the collective note taking document__ during the paper sessions. We use these notes to inform the Q&A sessions and the discussion in part II of the workshop.
 
-#### 8:00: __Presentation & introduction of the workshop__
+#### _8:00:_ __Presentation & introduction of the workshop__
 
-#### 8:15: __Session 1 - Paper Presentation__
+#### _8:15:_ __Session 1 - Paper Presentation__
 * [Teaching Data Viz to Kids](papers/7405-Schwabish-Jonathan.pdf): _Jonathan Schwabish_ (5 minutes)
 * [The VisTools Marketplace: An Activity to Understand the Landscape of Visualisation Tools](papers/1412-Ridley-Arran.pdf): Arran Ridley, Sarah Schöttler, Aba-Sah Dadzie, Benjamin Bach_ (5 minutes)
 * [Surfacing Misconceptions Through Visualization Critique](papers/2156-Fox-Amy.pdf): _Amy Rae Fox, Taylor Jackson Scott_ (5 minutes)
 * [GoCo: A Gamified Activity for Winnowing Visualization Projects with Interdisciplinary](papers/2154-Panagiotidou-Georgia.pdf): _Georgia Panagiotidou, Jan Aerts, Andrew Vande Moere_ (5 minutes)
 
-* 8:35-8:50: Collective __Question & Answers__ on the first group of  papers
+* _8:35-8:50:_ __Question & Answers__ for the first group of papers.
   
 * [Pandemic Pedagogy: Taking Data-Viz Learning Online](papers/2067-Bhargava-Rahul.pdf): _Rahul Bhargava_ (5 minutes)
 * [Data Crafting: Exploring Data Through Craft And Play](papers/3670-Hopkins-Aspen-1column.pdf): _Nathalie Alexandra Vladis, Aspen K. Hopkins, Arvind Satyanarayan_ (5 minutes) 
 * [Visualization Improvisation](papers/vis20s-sub3029-cam-i26-footer.pdf): _Swaroop Panda, Shatarupa Thakurta Roy_ (5 minutes)
 * [Design Sprints for Online and On-Campus Visualization Courses](papers/9456-Beyer-Johanna.pdf): _Johanna Beyer, Hanspeter Pfister_ (5 minutes)
 
-* Collective __Question & Answers__ on the first group of  papers (15 minutes)
+* _9:10:_ __Question & Answers__ for 2nd group of papers (15 minutes)
 
-#### 9:30: __Break__
-#### 10:00: __Session 2 - Creating and Discussing VisActivities__
+#### _9:30:_ __Break__
+#### _10:00:_ __Session 2 - Creating and Discussing VisActivities__
 * Introduction of the session			(~ 5 minutes)
 * Break out session work 			    (30 minutes) 
 * Report & presentation on breakout session 	(30 minutes)
 * Community building/discussion		(15 minutes)
 * Conclusion and future announcement 	(5 minutes)
-#### 11:05-11:30: _Closing and community buildling_
+#### _11:05-11:30:_ _Closing and community buildling_
  
 
 ## Topics and Submissions: 
