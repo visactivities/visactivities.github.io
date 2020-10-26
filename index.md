@@ -25,7 +25,7 @@ The schedule is split into two sessions. The first session features paper presen
 * [Teaching Data Viz to Kids](papers/7405-Schwabish-Jonathan.pdf): _Jonathan Schwabish_ (5 minutes)
 * [The VisTools Marketplace: An Activity to Understand the Landscape of Visualisation Tools](papers/1412-Ridley-Arran.pdf): Arran Ridley, Sarah Schöttler, Aba-Sah Dadzie, Benjamin Bach_ (5 minutes)
 * [Surfacing Misconceptions Through Visualization Critique](papers/2156-Fox-Amy.pdf): _Amy Rae Fox, Taylor Jackson Scott_ (5 minutes)
-* [GoCo: A Gamified Activity for Winnowing Visualization Projects with Interdisciplinary](papers/2154-Panagiotidou-Georgia.pdf): _Georgia Panagiotidou, Jan Aerts, Andrew Vande Moere_ (5 minutes)
+* [GoCo: A Gamified Activity for Winnowing Visualization Projects with Interdisciplinary Experts](papers/2154-Panagiotidou-Georgia.pdf): _Georgia Panagiotidou, Jan Aerts, Andrew Vande Moere_ (5 minutes)
 
 * _8:35-8:50:_ __Question & Answers__ for the first group of papers.
   
