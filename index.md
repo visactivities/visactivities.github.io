@@ -1,6 +1,10 @@
 ## IEEE VIS Workshop on Data Vis Activities, 2021
 
-This workshop on _Data Vis Activities to Facilitate Learning, Reflecting, Discussing, and Designing_ focuses on __data-visualization activities__, especially methods and challenges for teaching and engaging with data visualization concepts, knowledge, and practices. A  <a href="https://www.computer.org/digital-library/magazines/cg/call-for-papers-special-issue-on-visualization-education-and-teaching-visualization-literacy" target="_blank">CG&A Special Issue on Visualization Education and Teaching Visualization Literacy</a> is scheduled for 2021 and has its deadline on July-4th, 2021. We welcome submissions from across the fields. 
+This workshop on _Data Vis Activities to Facilitate Learning, Reflecting, Discussing, and Designing_ focuses on __data-visualization activities__, especially methods and challenges for teaching and engaging with data visualization concepts, knowledge, and practices. The deadline for submitting a paper or a lightning talk to the workshop is __July-4th, 2021__.
+
+On a similar thematic, <a href="https://www.computer.org/digital-library/magazines/cg/call-for-papers-special-issue-on-visualization-education-and-teaching-visualization-literacy" target="_blank">CG&A Special Issue on Visualization Education and Teaching Visualization Literacy</a> has its deadline on April-28th, 2021. 
+
+For both we welcome submissions from across the fields. 
 
 ## Topics & Goals:
 Workshops, classes, or collaborations with domain experts often include hands-on data visualization activities that involve analog or digital tools and materials as well as more or less well-defined protocols. Recent years have seen the emergence of such data visualization activities in different contexts, including education, visualization design, activism, self-reflection, and interdisciplinary collaboration: for example, sketching aids designers to consider alternative ideas; ,manipulating tokens help students conceptualize quantities for data visualization; user interviews and discussions help developers understand requirements manipulating data help activist better understand social issues, etc.
