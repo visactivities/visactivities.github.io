@@ -2,7 +2,7 @@
 
 This workshop on _Data Vis Activities to Facilitate Learning, Reflecting, Discussing, and Designing_ focuses on __data-visualization activities__, especially methods and challenges for teaching and engaging with data visualization concepts, knowledge, and practices. The deadline for submitting a paper or a lightning talk to the workshop is __July-4th, 2021__.
 
-On a similar thematic, <a href="https://www.computer.org/digital-library/magazines/cg/call-for-papers-special-issue-on-visualization-education-and-teaching-visualization-literacy" target="_blank">CG&A Special Issue on Visualization Education and Teaching Visualization Literacy</a> has its deadline on April-28th, 2021. 
+On a similar thematic, <a href="https://www.computer.org/digital-library/magazines/cg/call-for-papers-special-issue-on-visualization-education-and-teaching-visualization-literacy" target="_blank">CG&A Special Issue on Visualization Education and Teaching Visualization Literacy</a> has its deadline on __April-28th, 2021__. 
 
 For both we welcome submissions from across the fields. 
 
