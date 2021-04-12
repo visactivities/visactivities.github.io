@@ -63,7 +63,7 @@ building
 
 
 
-## Program Committee
+## Tentative Program Committee:
 
 * Lyn Bartram, Simon Fraser University, Canada
 * Anastasia Bezerianos, Université Paris-Saclay, France
@@ -71,6 +71,7 @@ building
 * Marian Dörk, University of Applied Sciences Potsdam, Germany
 * Sarah Goodwin, Monash University, Australia
 * Kyle Hall, Temple University, USA
+* Uta Hinrichs, University of StAndrews
 * Petra Isenberg, Université Paris-Saclay, France
 * Isabel Meirelles, OCAD University, Canada
 * Till Nagel, University of Applied Sciences Mannheim, Germany
