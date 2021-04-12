@@ -88,7 +88,7 @@ building
 * [Benjamin Bach](http://benjbach.me), University of Edinburgh 
 * [Georgia Panagiotidou](https://www.kuleuven.be/wieiswie/en/person/00120899), KU Leuven
 * [Jonathan C. Roberts](https://www.bangor.ac.uk/computer-science-and-electronic-engineering/staff/jonathan-roberts/en), Bangor University
-* [Mandy Keck](http://www.visual-search.org), Technische Universität Dresden
+* [Mandy Keck](http://www.visual-search.org), University of Applied Scienes Upper Austria
 * [Sheelagh Carpendale](https://www.cs.sfu.ca/~sheelagh/), Simon Fraser University
 
 
