@@ -71,7 +71,7 @@ building
 
 * Lyn Bartram, Simon Fraser University, Canada
 * Anastasia Bezerianos, Université Paris-Saclay, France
-* Rahul Bhargava, MIT, USA
+* Rahul Bhargava, Northeastern University, USA
 * Marian Dörk, University of Applied Sciences Potsdam, Germany
 * Sarah Goodwin, Monash University, Australia
 * Kyle Hall, Temple University, USA
