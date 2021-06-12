@@ -7,18 +7,16 @@ On a similar thematic, <a href="https://www.computer.org/digital-library/magazin
 For both we welcome submissions from across the fields. 
 
 ## Topics & Goals:
-Workshops, classes, or collaborations with domain experts often include hands-on data visualization activities that involve analog or digital tools and materials as well as more or less well-defined protocols. Recent years have seen the emergence of such data visualization activities in different contexts, including education, visualization design, activism, self-reflection, and interdisciplinary collaboration: for example, sketching aids designers to consider alternative ideas; ,manipulating tokens help students conceptualize quantities for data visualization; user interviews and discussions help developers understand requirements manipulating data help activist better understand social issues, etc.
-Download our [full proposal here](VIS2021_Vis_Activity_Workshop.pdf).
-
+Workshops, classes, or collaborations with domain experts often include hands-on data visualization activities that involve analog or digital tools and materials as well as more or less well-defined protocols. Recent years have seen the emergence of such data visualization activities in different contexts, including education, visualization design, activism, self-reflection, and interdisciplinary collaboration: for example, sketching aids designers to consider alternative ideas; manipulating tokens help students conceptualize quantities for data visualization; user interviews and discussions help developers understand requirements manipulating data help activist better understand social issues, etc.
 
 While many of these activities would naturally take place in a group setting, due to **the social distancing measures during the Covid-19 more and more of these activities are now happening online.** Switching from co-located and synchronous activities to remote and sometimes asynchronous activities, changed the way we teach or design data visualization. This required teachers and designers to reinvent activities, adapt materials to be suitable for online delivery, reorganise procedures, replace physical tools with virtual, rethink collaboration and engagement, restructure or invent new activities. At the same time, moving activities online opens new possibilities to involve people across the world and in turn increase diversity and access.
 
 **The goals of this workshop are:**
 Building an understanding and to synthesize protocols and materials used to lead data vis activities (online and offline), to bring together researchers, practitioners, and educators from within and outside of the visualization community, brainstorm, design, experience, and try novel activities, and to discuss issues around goals, methods, audiences, materials, and evaluation for teaching data visualization. And also exchanges about the best teaching moment of the year.
+Download our [full proposal here](VIS2021_Vis_Activity_Workshop.pdf).
 
 
-
-## Topics and Submissions: 
+## Submissions: 
 
 All submissions are submitted using PCS: https://new.precisionconference.com
 The is [standard IEEE style](http://vgtc.org/publications/journal).
