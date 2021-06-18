@@ -65,7 +65,7 @@ building
 
 
 
-## Tentative Program Committee:
+## Program Committee:
 
 * Lyn Bartram, Simon Fraser University, Canada
 * Anastasia Bezerianos, Université Paris-Saclay, France
@@ -80,7 +80,12 @@ building
 * Jon Schwabish, Urban Institute, USA
 * Romain Vuillemot, LIRIS, Ecole Centrale de Lyon, France
 * Jagoda Walny, University of Calgary, Canada
-* Zezhong Wang, University of Edinburgh, UK
+* Yuri Engelhardt, University of Twente, Netherlands
+* Chris headleand, University of Lincoln, USA
+* Enrico Bertini, NYU Tandon School of Engineering, USA
+* Panagiotis D. Ritsos, Bangor University, UK
+* Yalong Yang, Harvard University, USA
+* Dietrich Kammer, University of Applied Sciences Dresden, Germany
 
 ## Organizers
 
