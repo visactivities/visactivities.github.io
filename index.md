@@ -28,7 +28,8 @@ The is [standard IEEE style](http://vgtc.org/publications/journal).
 * __Lightning Talks__, refer to fast 2 minutes presentations of anecdotes, experiences and best experience specifically regarding online vis activities. These can discuss best teaching moments, activity reports, materials, tools, set-up etc in a brief concise way (4-5 slides) with the possibility of including additional material on the workshop website. Submission page length will be limited to 1 page briefly outlining the experience (only the abstract and a picture are mandatory) with any additional material added as an appendix. Lightning talks could also be picked for the Ice breaker: Fast forward testimony of best (teaching) moment of the year. The goal of these (casual) talks is to inspire, exchange nuggets of knowledge, provoke, trigger conversation and have fun.
 
 
-Any submission will be peer-reviewed, providing constructive feedback for the camera-ready version. All submissions will be published on and linked from our website and authors of workshop paper can choose to publish their accepted submissions in the IEEE DL.
+Any submission will be peer-reviewed, providing constructive feedback for the camera-ready version. All submissions will be published on and linked from our website. 
+<!--and authors of workshop paper can choose to publish their accepted submissions in the IEEE DL.-->
 
 ## Timeline:
 
