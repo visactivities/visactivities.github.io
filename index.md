@@ -25,14 +25,14 @@ We invite a wide range of research papers. Contributions can include: visualizat
 In the 2nd VisActivities workshop, we want to give participants the opportunity to share their activities in the way they were meant to be disseminated: by running them. We therefore invite applications to run an online activity regarding visualization education, design, activism, interdisciplinary collaboration or beyond. Activities can include, for example, sketching aids for idea generation, toolkits for visualisation design, protocols with tangible tokens to help conceptualize quantities for data visualization; sketching exercises to help activists or other stakeholders better understand social issues etc.
 
 Requirements: The suggested activity must be adapted to online settings, could account for approximately  1 hour or less and expect a double digit number of participants. The suggested activities do not need to be polished: the workshop settings offer a great platform and audience from which to build upon. Upon request the workshop organisers can help with the facilitation.
-Submission form:  https://forms.gle/FahumF9hXnELYnJc9
+Participation form: [https://forms.gle/FahumF9hXnELYnJc9](https://forms.gle/FahumF9hXnELYnJc9)
 
 ## 😂 Challenges : 
 As part of the workshop program, we are collecting opinions and position statements on visualization education and teaching. We are especially looking to gather challenges and questions regarding experiences, methodologies, activities that educators face when teaching data visualisation concepts in light of Covid-19 but also more broadly. 
 
 These challenges will be collected and organised into themes to help scaffold discussions during the workshop. Depending on participants’ interest these discussions could also form the basis for a shared viewpoint publication of what the community could be working towards.
 
-Format : 200 word text summarizing your positions about the main issues / challenges about teaching visualization. Submissions can choose to stay anonymous. Submission form: https://forms.gle/y6qvf6LcrJSJcrkw7
+Format : 200 word text summarizing your positions about the main issues / challenges about teaching visualization. Submissions can choose to stay anonymous. Participation form: [https://forms.gle/y6qvf6LcrJSJcrkw7](https://forms.gle/y6qvf6LcrJSJcrkw7)
 
 ❤️ Enjoy your summer ❤️
 
