@@ -6,7 +6,7 @@
 
 VisActivities - Visualisation Activities to Facilitate Learning, Reflecting, Discussing, and Designing, part of IEEE VIS (Oct. 24/29, 2021, Virtual)  https://visactivities.github.io 
 
-* Given this year’s special circumstances 😷 VisActivities is now opening a second call for participation.*
+*Given this year’s special circumstances 😷 VisActivities is now opening a second call for participation.*
 
 ## These submissions are:
 📝- Workshop Papers: deadline  24 August - On PCS
