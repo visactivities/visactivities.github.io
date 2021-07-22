@@ -9,9 +9,9 @@ VisActivities - Visualisation Activities to Facilitate Learning, Reflecting, Dis
 *Given this year’s special circumstances 😷 VisActivities is now opening a second call for participation.*
 
 ## These submissions are:
-📝- Workshop Papers: deadline  24 August - On PCS
-⚽️- Activity Descriptions: deadline 01 October 2021 - https://forms.gle/FahumF9hXnELYnJc9
-😂- Challenges: deadline:deadline 01 October 2021 - https://forms.gle/y6qvf6LcrJSJcrkw7
+* 📝- Workshop Papers: deadline  24 August - On PCS
+* ⚽️- Activity Descriptions: deadline 01 October 2021 - [https://forms.gle/FahumF9hXnELYnJc9](https://forms.gle/FahumF9hXnELYnJc9)
+* 😂- Challenges: deadline:deadline 01 October 2021 - [https://forms.gle/y6qvf6LcrJSJcrkw7](https://forms.gle/y6qvf6LcrJSJcrkw7)
 
 More information on the individual calls below.
 
