@@ -73,10 +73,10 @@ Any submission will be peer-reviewed, providing constructive feedback for the ca
 
 ## Timeline:
 
-* July 4, 2021: Submission Deadline
-* July 25, 2021: Reviews Collected from reviewers
-* ~~August 3, 2021:~~ August 10, 2021: Author Notification
-* September 17, 2021: Submission Camera Ready Deadline
+* **July 4, 2021**: Submission Deadline
+* **July 25, 2021:** Reviews Collected from reviewers
+* **August 6, 2021**: Author Notification (updated!)
+* **August 27, 2021**: Submission Camera Ready Deadline (updated!)
 
 
 ## Workshop outline
