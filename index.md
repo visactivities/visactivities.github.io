@@ -75,7 +75,7 @@ Any submission will be peer-reviewed, providing constructive feedback for the ca
 
 * **July 4, 2021**: Submission Deadline
 * **July 25, 2021:** Reviews Collected from reviewers
-* **August 6, 2021**: Author Notification (updated!)
+* **August 10, 2021**: Author Notification (updated!)
 * **August 27, 2021**: Submission Camera Ready Deadline (updated!)
 
 
