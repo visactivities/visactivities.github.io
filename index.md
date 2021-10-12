@@ -8,11 +8,15 @@ Visualisation Activities to Facilitate Learning, Reflecting, Discussing, and Des
 
 ### Session 1 _8:00-9:30_: Opening, Keynote, Papers
 
-#### _8:00:_ __Presentation__
+#### _8:00:_ __Introduction of the Workshop__
 
 #### _8:15:_ __Session 1 - Paper Presentation__
 
-#### _8:15-8:45:_ __Keynote : Encouraging Engagement, Practice, & Creativity in Vis Teaching (at a Distance) by Wesley Willett__
+#### _8:15-8:45:_ 
+
+__Keynote : Encouraging Engagement, Practice, & Creativity in Vis Teaching (at a Distance) by Wesley Willett__
+
+
 
 #### _8:45-9:30:_ __Paper session introduction, Mandy Keck__
 
@@ -33,18 +37,18 @@ In this panel we are delighted to have presentation from  :
 * _[Miriah Meyer](https://miriah.github.io/)_ - [@miriah_meyer](https://twitter.com/miriah_meyer) - “Participatory Visualization Workshops”,
 * _[Michael Baker](https://scholar.google.com/citations?user=PimAOhsAAAAJ&hl=fr)_  “Diagrammatic representations of argument in CABLE (Collaborative Argumentation-Based Learning)” 
 * _[Isabelle Meireilles](https://www2.ocadu.ca/bio/isabel-meirelles-0)_ - “Contextualizing Data in Situ”
-* _[Enrico Bertini](http://enrico.bertini.io/)_ - [@FILWD](https://twitter.com/filwd) - about "Active Data Visualization Learning with Mini-Projects"
+* _[Enrico Bertini](http://enrico.bertini.io/)_ - [@FILWD](https://twitter.com/filwd) - "Active Data Visualization Learning with Mini-Projects"
 
 #### _10:22-11:25:_ __Panel Discussion & Challenge identification__
 
 
-### Session 3 _12:00-13:30_: Activity Generation Session 
+### Session 3 _12:00-13:30_: ⚽️ Activity Generation Session 
 * 1200-1220	Afternoon opening
 * 1220-1240	Warmup DataVis activity
-* 1240-1310	"Group work : creating & discussing	"
+* 1240-1310	Group work : creating & discussing activity
 * 1310-1330	Group work : running and testing
 
-### Session 4 _12:00-13:30_: Establishing a Research Agenda
+### Session 4 _12:00-13:30_: 📝 Establishing a Research Agenda
 * 1400-1405	Last session opening 
 * 1405-1435	Groups: Reflection time & discussion
 * 1435-1505	Structured discussion & community building and research agenda
