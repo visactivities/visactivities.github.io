@@ -12,7 +12,7 @@ Visualisation Activities to Facilitate Learning, Reflecting, Discussing, and Des
 
 #### _8:15_ __Session 1 - Paper Presentations__
 
-#### _8:15-8:45_ Keynote by Wesley Willett: Encouraging Engagement, Practice, & Creativity in Vis Teaching (at a Distance)__
+#### _8:15-8:45_ __Keynote by Wesley Willett: Encouraging Engagement, Practice, & Creativity in Vis Teaching (at a Distance)__
 
 #### _8:45-9:30_ __Paper session introduction, Mandy Keck__
 
