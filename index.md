@@ -8,13 +8,11 @@ Visualisation Activities to Facilitate Learning, Reflecting, Discussing, and Des
 
 ### Session 1 Opening, Keynote, Papers (8:00 - 9:30)
 
-#### _8:00_ __Introduction to the Workshop__
+##### 8:00 __Introduction to the Workshop__
 
-#### _8:15_ __Session 1 - Paper Presentations__
+##### 8:15-8:45 __Keynote by Wesley Willett: Encouraging Engagement, Practice, & Creativity in Vis Teaching (at a Distance)__
 
-#### _8:15-8:45_ __Keynote by Wesley Willett: Encouraging Engagement, Practice, & Creativity in Vis Teaching (at a Distance)__
-
-#### _8:45-9:30_ __Paper session introduction, Mandy Keck__
+##### 8:45-9:30 __Paper session introduction, Mandy Keck__
 
 * _Ligthning talk:_ Personal data collection and "experiential mapping" pre- and post-pandemic. Curt Lund, Digital Media Arts - _Hamline University_ (2 min) 
 * _Ligthning talk:_ A workshop to teach the fundamentals of usability testing. Roshni Gohil - _MIT_. ([abstract])(papers/Abstract-Gohil-UsabilityTestingDataVisualizations.pdf) (2min)
@@ -23,19 +21,17 @@ Visualisation Activities to Facilitate Learning, Reflecting, Discussing, and Des
 * [Experience of Teaching Data Visualization using Project-based Learning](papers/6705_Dietrich_Kammer.pdf). Dietrich Kammer, Elena Stoll, Adam Urban - _Faculty of Informatics / Mathematics, University of Applied Sciences Dresden_ 
 * [DataBlokken: Stimulating Critical Data Literacy of Children Through the Use of a Life-size Data Physicalisation Game](papers/8933_Paola_Verhaert.pdf). Paola Verhaert, Georgia Panagiotidou, Andew Vande Moere - _KU Leuven, Belgium_ 
 
-
 ### Session 2 Panel Discussion and Challenges (10:00 - 11:30)
 
-#### _10:00_ __Introduction to session, Samuel Huron__ 
-#### _10:02-10:22_ __Panelist Presentations__ 
+##### 10:00 __Introduction to session, Samuel Huron__ 
+##### 10:02-10:22 __Panelist Presentations__ 
 
 * _[Miriah Meyer](https://miriah.github.io/)_ - [@miriah_meyer](https://twitter.com/miriah_meyer) - “Participatory Visualization Workshops”,
 * _[Michael Baker](https://scholar.google.com/citations?user=PimAOhsAAAAJ&hl=fr)_  “Diagrammatic representations of argument in CABLE (Collaborative Argumentation-Based Learning)” 
 * _[Isabelle Meireilles](https://www2.ocadu.ca/bio/isabel-meirelles-0)_ - “Contextualizing Data in Situ”
 * _[Enrico Bertini](http://enrico.bertini.io/)_ - [@FILWD](https://twitter.com/filwd) - "Active Data Visualization Learning with Mini-Projects"
 
-#### _10:22-11:25_ __Panel Discussion & Challenge identification__
-
+##### 10:22-11:25 __Panel Discussion & Challenge identification__
 
 ### Session 3 ⚽️ Activity Generation Session (12:00 - 13:30)
 * 12:00-12:20 __Session Introduction__
@@ -45,8 +41,8 @@ Visualisation Activities to Facilitate Learning, Reflecting, Discussing, and Des
 ### Session 4 📝 Establishing a Research Agenda (14:00 - 15:30)
 * 14:00-14:05	__Session opening__ 
 * 14:05-14:35	__Reporting on generated activities__
-* 14:35-15:05	__Structured discussion on the research agenda & community building__ 
-* 15:05-15:30	__Wrap-up discussion & conclusion__ 
+* 14:35-15:05	__Setting the agenda & community building__ 
+* 15:05-15:30	__Wrap-up discussion__ 
 
 
 ## Program Committee:
