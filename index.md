@@ -16,10 +16,10 @@ Visualisation Activities to Facilitate Learning, Reflecting, Discussing, and Des
 
 * _Ligthning talk:_ Personal data collection and "experiential mapping" pre- and post-pandemic. Curt Lund, Digital Media Arts - _Hamline University_ (2 min) 
 * _Ligthning talk:_ A workshop to teach the fundamentals of usability testing. Roshni Gohil - _MIT_. [(abstract)](papers/Abstract-Gohil-UsabilityTestingDataVisualizations.pdf) (2min)
-* [Learning Cues to Improve the Understanding of Explanatory Storytelling](papers/1154_Alark_Joshi.pdf). Alark Joshi - _Department of Computer Science University of San Francisco_ 
-* [Teaching K-12 Classrooms Data Programming: A Three-Week Workshop with Online and Unplugged Activities](papers/1355_Alpay_Sabuncuoglo.pdf). Alpay Sabuncuoğlu, Asim Evren Yantac, T. Metin Sezgin - _Department of Computer Engineering, Koç University_ 
-* [Experience of Teaching Data Visualization using Project-based Learning](papers/6705_Dietrich_Kammer.pdf). Dietrich Kammer, Elena Stoll, Adam Urban - _Faculty of Informatics / Mathematics, University of Applied Sciences Dresden_ 
-* [DataBlokken: Stimulating Critical Data Literacy of Children Through the Use of a Life-size Data Physicalisation Game](papers/8933_Paola_Verhaert.pdf). Paola Verhaert, Georgia Panagiotidou, Andew Vande Moere - _KU Leuven, Belgium_ 
+* [Learning Cues to Improve the Understanding of Explanatory Storytelling](papers/1154_Alark_Joshi.pdf). Alark Joshi - _Department of Computer Science University of San Francisco_ (5min, 2min Q&A)
+* [Teaching K-12 Classrooms Data Programming: A Three-Week Workshop with Online and Unplugged Activities](papers/1355_Alpay_Sabuncuoglo.pdf). Alpay Sabuncuoğlu, Asim Evren Yantac, T. Metin Sezgin - _Department of Computer Engineering, Koç University_ (5min, 2min Q&A)
+* [Experience of Teaching Data Visualization using Project-based Learning](papers/6705_Dietrich_Kammer.pdf). Dietrich Kammer, Elena Stoll, Adam Urban - _Faculty of Informatics / Mathematics, University of Applied Sciences Dresden_ (5min, 2min Q&A)
+* [DataBlokken: Stimulating Critical Data Literacy of Children Through the Use of a Life-size Data Physicalisation Game](papers/8933_Paola_Verhaert.pdf). Paola Verhaert, Georgia Panagiotidou, Andew Vande Moere - _KU Leuven, Belgium_ (5min, 2min Q&A)
 
 ### Session 2 Panel Discussion and Challenges (10:00 - 11:30)
 
