@@ -17,7 +17,7 @@ Visualisation Activities to Facilitate Learning, Reflecting, Discussing, and Des
 #### _8:45-9:30_ __Paper session introduction, Mandy Keck__
 
 * _Ligthning talk:_ Personal data collection and "experiential mapping" pre- and post-pandemic. Curt Lund, Digital Media Arts - _Hamline University_ (2 min) 
-* _Ligthning talk:_ A workshop to teach the fundamentals of usability testing. Roshni Gohil - _MIT_  [abstract](papers/Abstract-Gohil-UsabilityTestingDataVisualizations.pdf) (2min)
+* _Ligthning talk:_ A workshop to teach the fundamentals of usability testing. Roshni Gohil - _MIT_ ([abstract])(papers/Abstract-Gohil-UsabilityTestingDataVisualizations.pdf) (2min)
 * [Learning Cues to Improve the Understanding of Explanatory Storytelling](papers/1154_Alark_Joshi.pdf). Alark Joshi - _Department of Computer Science University of San Francisco_ (5min, 2min Q&A)
 * [Teaching K-12 Classrooms Data Programming: A Three-Week Workshop with Online and Unplugged Activities](papers/1355_Alpay_Sabuncuoglo.pdf)   
 Alpay Sabuncuoğlu, Asim Evren Yantac, T. Metin Sezgin - _Department of Computer Engineering, Koç University_
