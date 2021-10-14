@@ -38,15 +38,15 @@ Visualisation Activities to Facilitate Learning, Reflecting, Discussing, and Des
 
 
 ### Session 3 ⚽️ Activity Generation Session (12:00 - 13:30)
-* 12:00-12:20   Session Introduction
-* 12:20-13:15	Group work : Creating an activity!
-* 13:15-13:30	Group work : Wrap up 
+* 12:00-12:20 __Session Introduction__
+* 12:20-13:15	__Group work : Creating an activity!__
+* 13:15-13:30	__Group work : Wrap up__ 
 
 ### Session 4 📝 Establishing a Research Agenda (14:00 - 15:30)
-* 14:00-14:05	Session opening 
-* 14:05-14:35	Reporting on generated activities
-* 14:35-15:05	Structured discussion on the research agenda & community building 
-* 15:05-15:30	Wrap-up discussion & conclusion 
+* 14:00-14:05	__Session opening__ 
+* 14:05-14:35	__Reporting on generated activities__
+* 14:35-15:05	__Structured discussion on the research agenda & community building__ 
+* 15:05-15:30	__Wrap-up discussion & conclusion__ 
 
 
 ## Program Committee:
