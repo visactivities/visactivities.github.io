@@ -6,53 +6,51 @@ Visualisation Activities to Facilitate Learning, Reflecting, Discussing, and Des
 
 ## Program:
 
-### Session 1 _8:00-9:30_: Opening, Keynote, Papers
+### Session 1 Opening, Keynote, Papers (8:00 - 9:30)
 
-#### _8:00:_ __Introduction of the Workshop__
+#### _8:00_ __Introduction to the Workshop__
 
-#### _8:15:_ __Session 1 - Paper Presentation__
+#### _8:15_ __Session 1 - Paper Presentations__
 
-#### _8:15-8:45:_ 
+#### _8:15-8:45_ 
 
 __Keynote : Encouraging Engagement, Practice, & Creativity in Vis Teaching (at a Distance) by Wesley Willett__
 
 
+#### _8:45-9:30_ __Paper session introduction, Mandy Keck__
 
-#### _8:45-9:30:_ __Paper session introduction, Mandy Keck__
-
-* _Ligthning talk:_ [Personal data collection and "experiential mapping" pre- and post-pandemic](papers/.pdf): _Curt Lund, Digital Media Arts, Hamline University_ (2 minutes)
-* _Ligthning talk:_ [A workshop to teach the fundamentals of usability testing](papers/.pdf): _Roshni Gohil, MIT_ (2 minutes)
-* [Learning Cues to Improve the Understanding of Explanatory Storytelling](papers/.pdf): _Alark Joshi Department of Computer Science, University of San Francisco_ (5 minutes, 2 minutes Q&A)
-* [Teaching K-12 Classrooms Data Programming: A Three-Week Workshop with Online and Unplugged Activities](papers/.pdf): _Alpay Sabuncuoğlu, Asim Evren Yantac, T. Metin Sezgin - Department of Computer Engineering, Koç University,_ (5 minutes, 2 minutes Q&A)
-* [Experience of Teaching Data Visualization using Project-based Learning](papers/.pdf): _Dietrich Kammer, Elena Stoll, Adam Urban - Faculty of Informatics / Mathematics, University of Applied Sciences Dresden_ (5 minutes, 2 minutes Q&A)
-* [DataBlokken’: Stimulating Critical Data Literacy of Children Through the Use of a Life-size Data Physicalisation Game](papers/.pdf): _Verhaert Paola - KU Leuven, Leuven, Belgium_ (5 minutes, 2 minutes Q&A)
+* _Ligthning talk:_ Personal data collection and "experiential mapping" pre- and post-pandemic: _Curt Lund, Digital Media Arts, Hamline University_ (2 minutes) 
+* _Ligthning talk:_ A workshop to teach the fundamentals of usability testing: _Roshni Gohil, MIT_ (2 minutes) [abstract](papers/Abstract-Gohil-UsabilityTestingDataVisualizations.pdf)
+* [Learning Cues to Improve the Understanding of Explanatory Storytelling](papers/1154_Alark_Joshi.pdf): _Alark Joshi Department of Computer Science, University of San Francisco_ (5 minutes, 2 minutes Q&A)
+* [Teaching K-12 Classrooms Data Programming: A Three-Week Workshop with Online and Unplugged Activities](papers/1355_Alpay_Sabuncuoglo.pdf): _Alpay Sabuncuoğlu, Asim Evren Yantac, T. Metin Sezgin - Department of Computer Engineering, Koç University,_ (5 minutes, 2 minutes Q&A)
+* [Experience of Teaching Data Visualization using Project-based Learning](papers/6705_Dietrich_Kammer.pdf): _Dietrich Kammer, Elena Stoll, Adam Urban - Faculty of Informatics / Mathematics, University of Applied Sciences Dresden_ (5 minutes, 2 minutes Q&A)
+* [DataBlokken: Stimulating Critical Data Literacy of Children Through the Use of a Life-size Data Physicalisation Game](papers/8933_Paola_Verhaert.pdf): _Verhaert Paola - KU Leuven, Belgium_ (5 minutes, 2 minutes Q&A)
 
 
-### Session 2 _10:00-11:30_: Panel
+### Session 2 Panel Discussion and Challenges (10:00 - 11:30)
 
-#### _10:00:_ __Presentation__
-#### _10:02-10:22:_ __Presentation from panelist__
+#### _10:00_ __Introduction to session, Samuel Huron__ 
+#### _10:02-10:22_ __Panelist Presentations__ 
 
-In this panel we are delighted to have presentation from  : 
 * _[Miriah Meyer](https://miriah.github.io/)_ - [@miriah_meyer](https://twitter.com/miriah_meyer) - “Participatory Visualization Workshops”,
 * _[Michael Baker](https://scholar.google.com/citations?user=PimAOhsAAAAJ&hl=fr)_  “Diagrammatic representations of argument in CABLE (Collaborative Argumentation-Based Learning)” 
 * _[Isabelle Meireilles](https://www2.ocadu.ca/bio/isabel-meirelles-0)_ - “Contextualizing Data in Situ”
 * _[Enrico Bertini](http://enrico.bertini.io/)_ - [@FILWD](https://twitter.com/filwd) - "Active Data Visualization Learning with Mini-Projects"
 
-#### _10:22-11:25:_ __Panel Discussion & Challenge identification__
+#### _10:22-11:25_ __Panel Discussion & Challenge identification__
 
 
-### Session 3 _12:00-13:30_: ⚽️ Activity Generation Session 
-* 1200-1220	Afternoon opening
-* 1220-1240	Warmup DataVis activity
-* 1240-1310	Group work : creating & discussing activity
-* 1310-1330	Group work : running and testing
+### Session 3 ⚽️ Activity Generation Session (12:00 - 13:30)
+* 12:00-12:20   Session Introduction
+* 12:20-13:15	Group work : Creating an activity!
+* 13:15-13:30	Group work : Wrap up 
 
-### Session 4 _12:00-13:30_: 📝 Establishing a Research Agenda
-* 1400-1405	Last session opening 
-* 1405-1435	Groups: Reflection time & discussion
-* 1435-1505	Structured discussion & community building and research agenda
-* 1505-1530	Wrap-up discussion & conclusion 
+### Session 4 📝 Establishing a Research Agenda (14:00 - 15:30)
+* 14:00-14:05	Session opening 
+* 14:05-14:35	Reporting on generated activities
+* 14:35-15:05	Structured discussion on the research agenda & community building 
+* 15:05-15:30	Wrap-up discussion & conclusion 
+
 
 ## Program Committee:
 
