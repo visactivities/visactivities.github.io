@@ -23,7 +23,7 @@ Visualisation Activities to Facilitate Learning, Reflecting, Discussing, and Des
 
 ### Session 2 Panel Discussion and Challenges (10:00 - 11:30)
 
-##### 10:00 __Introduction to session, Samuel Huron__ 
+##### 10:00 __Session opening, Samuel Huron__ 
 ##### 10:02-10:22 __Panelist Presentations__ 
 
 * _[Miriah Meyer](https://miriah.github.io/)_ - [@miriah_meyer](https://twitter.com/miriah_meyer) - “Participatory Visualization Workshops”,
@@ -34,7 +34,7 @@ Visualisation Activities to Facilitate Learning, Reflecting, Discussing, and Des
 ##### 10:22-11:25 __Panel Discussion & Challenge identification__
 
 ### Session 3 ⚽️ Activity Generation Session (12:00 - 13:30)
-##### 12:00-12:20 __Session Introduction__
+##### 12:00-12:20 __Session opening__
 ##### 12:20-13:15	__Group work : Creating an activity!__
 ##### 13:15-13:30	__Group work : Wrap up__ 
 
