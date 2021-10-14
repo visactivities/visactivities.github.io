@@ -12,16 +12,14 @@ Visualisation Activities to Facilitate Learning, Reflecting, Discussing, and Des
 
 #### _8:15_ __Session 1 - Paper Presentations__
 
-#### _8:15-8:45_ Keynote: 
-__Encouraging Engagement, Practice, & Creativity in Vis Teaching (at a Distance) by Wesley Willett__
-
+#### _8:15-8:45_ Keynote by Wesley Willett: Encouraging Engagement, Practice, & Creativity in Vis Teaching (at a Distance)__
 
 #### _8:45-9:30_ __Paper session introduction, Mandy Keck__
 
 * _Ligthning talk:_ Personal data collection and "experiential mapping" pre- and post-pandemic: _Curt Lund, Digital Media Arts, Hamline University_ (2 minutes) 
 * _Ligthning talk:_ A workshop to teach the fundamentals of usability testing: _Roshni Gohil, MIT_ (2 minutes) [abstract](papers/Abstract-Gohil-UsabilityTestingDataVisualizations.pdf)
 * [Learning Cues to Improve the Understanding of Explanatory Storytelling](papers/1154_Alark_Joshi.pdf){:target="_blank"}: _Alark Joshi Department of Computer Science, University of San Francisco_ (5 minutes, 2 minutes Q&A)
-* [Teaching K-12 Classrooms Data Programming: A Three-Week Workshop with Online and Unplugged Activities](papers/1355_Alpay_Sabuncuoglo.pdf){:target="_blank"}: _Alpay Sabuncuoğlu, Asim Evren Yantac, T. Metin Sezgin - Department of Computer Engineering, Koç University,_ (5 minutes, 2 minutes Q&A)
+* [Teaching K-12 Classrooms Data Programming: A Three-Week Workshop with Online and Unplugged Activities](papers/1355_Alpay_Sabuncuoglo.pdf){:target="_blank"}: Alpay Sabuncuoğlu, Asim Evren Yantac, T. Metin Sezgin - _Department of Computer Engineering, Koç University_ (5 minutes, 2 minutes Q&A)
 * [Experience of Teaching Data Visualization using Project-based Learning](papers/6705_Dietrich_Kammer.pdf){:target="_blank"}: _Dietrich Kammer, Elena Stoll, Adam Urban - Faculty of Informatics / Mathematics, University of Applied Sciences Dresden_ (5 minutes, 2 minutes Q&A)
 * [DataBlokken: Stimulating Critical Data Literacy of Children Through the Use of a Life-size Data Physicalisation Game](papers/8933_Paola_Verhaert.pdf){:target="_blank"}: _Verhaert Paola - KU Leuven, Belgium_ (5 minutes, 2 minutes Q&A)
 
