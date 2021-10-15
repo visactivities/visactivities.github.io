@@ -12,9 +12,14 @@ Visualisation Activities to Facilitate Learning, Reflecting, Discussing, and Des
 
 #### _8:15:_ __Session 1 - Paper Presentation__
 
-#### _8:15-8:45:_ 
+#### _8:15-8:45:_ __Keynote__
 
-__Keynote : Encouraging Engagement, Practice, & Creativity in Vis Teaching (at a Distance) by Wesley Willett__
+_Title:_ Encouraging Engagement, Practice, & Creativity in Vis Teaching (at a Distance) 
+by Wesley Willett
+
+_Title:_ Encouraging Engagement, Practice, & Creativity in Vis Teaching (at a Distance)
+
+_Bio:_ Wesley Willett is an Associate Professor of Computer Science at the University of Calgary where he holds a Canada Research Chair in Visual Analytics. His interests span information visualization, social computing, new media, and human-computer interaction, while his research focuses on pairing data and interactivity to support collaboration, learning, and discovery. At the UofC, Dr. Willett leads the Data Experience Lab and is a member of the Interactions Lab, the university’s human-computer interaction research collective. He is also faculty in the University’s Computational Media Design and Data Science programs, where he received the Faculty of Science's 2019 Excellence in Research Scholarship Award (Early Career). 
 
 
 
@@ -34,10 +39,10 @@ __Keynote : Encouraging Engagement, Practice, & Creativity in Vis Teaching (at a
 #### _10:02-10:22:_ __Presentation from panelist__
 
 In this panel we are delighted to have presentation from  : 
-* _[Miriah Meyer](https://miriah.github.io/)_ - [@miriah_meyer](https://twitter.com/miriah_meyer) - “Participatory Visualization Workshops”,
-* _[Michael Baker](https://scholar.google.com/citations?user=PimAOhsAAAAJ&hl=fr)_  “Diagrammatic representations of argument in CABLE (Collaborative Argumentation-Based Learning)” 
-* _[Isabelle Meireilles](https://www2.ocadu.ca/bio/isabel-meirelles-0)_ - “Contextualizing Data in Situ”
-* _[Enrico Bertini](http://enrico.bertini.io/)_ - [@FILWD](https://twitter.com/filwd) - "Active Data Visualization Learning with Mini-Projects"
+* _[Miriah Meyer, Linköping University](https://miriah.github.io/)_ - [@miriah_meyer](https://twitter.com/miriah_meyer) - “Participatory Visualization Workshops”,
+* _[Michael Baker, CNRS](https://scholar.google.com/citations?user=PimAOhsAAAAJ&hl=fr)_  “Diagrammatic representations of argument in CABLE (Collaborative Argumentation-Based Learning)” 
+* _[Isabelle Meireilles, OCAD](https://www2.ocadu.ca/bio/isabel-meirelles-0)_ - “Contextualizing Data in Situ”
+* _[Enrico Bertini, NYU](http://enrico.bertini.io/)_ - [@FILWD](https://twitter.com/filwd) - "Active Data Visualization Learning with Mini-Projects"
 
 #### _10:22-11:25:_ __Panel Discussion & Challenge identification__
 
