@@ -39,10 +39,10 @@ This workshop on _Data Vis Activities to Facilitate Learning, Reflecting, Discus
 
 ##### 10:22-11:25 __Panel Discussion & Challenge identification__
 
+### Session 3 ⚽️ Activity Generation Session (12:00 - 13:30)
+
 <img src="2021-vis-activities-workshop-web.png" width="500px">
 
-
-### Session 3 ⚽️ Activity Generation Session (12:00 - 13:30)
 ##### 12:00-12:20 __Session opening__
 ##### 12:20-13:15	__Group work : Creating an activity!__
 ##### 13:15-13:30	__Group work : Wrap up__ 
