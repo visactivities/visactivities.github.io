@@ -6,12 +6,10 @@ Visualisation Activities to Facilitate Learning, Reflecting, Discussing, and Des
 
 ## Program:
 
-### Session 1 _8:00-9:30_: Opening, Keynote, Papers
 
-#### _8:00:_ __Introduction of the Workshop__
 
-#### _8:15:_ __Session 1 - Paper Presentation__
 
+<<<<<<< HEAD
 #### _8:15-8:45:_ __Keynote__
 
 _Title:_ Encouraging Engagement, Practice, & Creativity in Vis Teaching (at a Distance) 
@@ -20,9 +18,23 @@ by Wesley Willett
 _Title:_ Encouraging Engagement, Practice, & Creativity in Vis Teaching (at a Distance)
 
 _Bio:_ Wesley Willett is an Associate Professor of Computer Science at the University of Calgary where he holds a Canada Research Chair in Visual Analytics. His interests span information visualization, social computing, new media, and human-computer interaction, while his research focuses on pairing data and interactivity to support collaboration, learning, and discovery. At the UofC, Dr. Willett leads the Data Experience Lab and is a member of the Interactions Lab, the university’s human-computer interaction research collective. He is also faculty in the University’s Computational Media Design and Data Science programs, where he received the Faculty of Science's 2019 Excellence in Research Scholarship Award (Early Career). 
+=======
+##### 8:45-9:30 __Paper session introduction, Mandy Keck__
 
+* _Ligthning talk:_ Personal data collection and "experiential mapping" pre- and post-pandemic. Curt Lund, Digital Media Arts - _Hamline University_ (2 min) 
+* _Ligthning talk:_ A workshop to teach the fundamentals of usability testing. Roshni Gohil - _MIT_. [(abstract)](papers/Abstract-Gohil-UsabilityTestingDataVisualizations.pdf) (2min)
+* [Learning Cues to Improve the Understanding of Explanatory Storytelling](papers/1154_Alark_Joshi.pdf). Alark Joshi - _Department of Computer Science University of San Francisco_ (5min, 2min Q&A)
+* [Teaching K-12 Classrooms Data Programming: A Three-Week Workshop with Online and Unplugged Activities](papers/1355_Alpay_Sabuncuoglo.pdf). Alpay Sabuncuoğlu, Asim Evren Yantac, T. Metin Sezgin - _Department of Computer Engineering, Koç University_ (5min, 2min Q&A)
+* [Experience of Teaching Data Visualization using Project-based Learning](papers/6705_Dietrich_Kammer.pdf). Dietrich Kammer, Elena Stoll, Adam Urban - _Faculty of Informatics / Mathematics, University of Applied Sciences Dresden_ (5min, 2min Q&A)
+* [DataBlokken: Stimulating Critical Data Literacy of Children Through the Use of a Life-size Data Physicalisation Game](papers/8933_Paola_Verhaert.pdf). Paola Verhaert, Georgia Panagiotidou, Andew Vande Moere - _KU Leuven, Belgium_ (5min, 2min Q&A)
+>>>>>>> 1c9e691627f8d66603563b813f08bab46531737a
 
+### Session 2 Panel Discussion and Challenges (10:00 - 11:30)
 
+##### 10:00 __Session opening, Samuel Huron__ 
+##### 10:02-10:22 __Panelist Presentations__ 
+
+<<<<<<< HEAD
 #### _8:45-9:30:_ __Paper session introduction, Mandy Keck__
 
 * _Ligthning talk:_ [Personal data collection and "experiential mapping" pre- and post-pandemic](papers/.pdf): _Curt Lund, Digital Media Arts, Hamline University_ (2 minutes)
@@ -44,20 +56,6 @@ In this panel we are delighted to have presentation from  :
 * _[Isabelle Meireilles, OCAD](https://www2.ocadu.ca/bio/isabel-meirelles-0)_ - “Contextualizing Data in Situ”
 * _[Enrico Bertini, NYU](http://enrico.bertini.io/)_ - [@FILWD](https://twitter.com/filwd) - "Active Data Visualization Learning with Mini-Projects"
 
-#### _10:22-11:25:_ __Panel Discussion & Challenge identification__
-
-
-### Session 3 _12:00-13:30_: ⚽️ Activity Generation Session 
-* 1200-1220	Afternoon opening
-* 1220-1240	Warmup DataVis activity
-* 1240-1310	Group work : creating & discussing activity
-* 1310-1330	Group work : running and testing
-
-### Session 4 _12:00-13:30_: 📝 Establishing a Research Agenda
-* 1400-1405	Last session opening 
-* 1405-1435	Groups: Reflection time & discussion
-* 1435-1505	Structured discussion & community building and research agenda
-* 1505-1530	Wrap-up discussion & conclusion 
 
 ## Program Committee:
 
