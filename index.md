@@ -24,6 +24,7 @@ Download our [full proposal here](VIS2021_Vis_Activity_Workshop.pdf).
 ##### 8:00 __Introduction to the Workshop__
 
 ##### 8:15-8:45 __Keynote by Wesley Willett: Encouraging Engagement, Practice, & Creativity in Vis Teaching (at a Distance)__
+<img src="2021-vis-activities-keynote-web.png" width="500px">
 
 ##### 8:45-9:30 __Paper session introduction, Mandy Keck__
 
@@ -39,12 +40,17 @@ Download our [full proposal here](VIS2021_Vis_Activity_Workshop.pdf).
 ##### 10:00 __Session opening, Samuel Huron__ 
 ##### 10:02-10:22 __Panelist Presentations__ 
 
+<img src="2021-vis-activities-panel-web.png" width="500px">
+
 * _[Miriah Meyer](https://miriah.github.io/)_ - [@miriah_meyer](https://twitter.com/miriah_meyer) - “Participatory Visualization Workshops”,
 * _[Michael Baker](https://scholar.google.com/citations?user=PimAOhsAAAAJ&hl=fr)_  “Diagrammatic representations of argument in CABLE (Collaborative Argumentation-Based Learning)” 
 * _[Isabelle Meireilles](https://www2.ocadu.ca/bio/isabel-meirelles-0)_ - “Contextualizing Data in Situ”
 * _[Enrico Bertini](http://enrico.bertini.io/)_ - [@FILWD](https://twitter.com/filwd) - "Active Data Visualization Learning with Mini-Projects"
 
 ##### 10:22-11:25 __Panel Discussion & Challenge identification__
+
+<img src="2021-vis-activities-workshop-web.png" width="500px">
+
 
 ### Session 3 ⚽️ Activity Generation Session (12:00 - 13:30)
 ##### 12:00-12:20 __Session opening__
