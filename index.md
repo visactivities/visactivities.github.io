@@ -5,16 +5,6 @@ Visualisation Activities to Facilitate Learning, Reflecting, Discussing, and Des
 
 This workshop on _Data Vis Activities to Facilitate Learning, Reflecting, Discussing, and Designing_ focuses on __data-visualization activities__, especially methods and challenges for teaching and engaging with data visualization concepts, knowledge, and practices. 
 
-## Topics & Goals:
-Workshops, classes, or collaborations with domain experts often include hands-on data visualization activities that involve analog or digital tools and materials as well as more or less well-defined protocols. Recent years have seen the emergence of such data visualization activities in different contexts, including education, visualization design, activism, self-reflection, and interdisciplinary collaboration: for example, sketching aids designers to consider alternative ideas; manipulating tokens help students conceptualize quantities for data visualization; user interviews and discussions help developers understand requirements manipulating data help activist better understand social issues, etc.
-
-While many of these activities would naturally take place in a group setting, due to **the social distancing measures during the Covid-19 more and more of these activities are now happening online.** Switching from co-located and synchronous activities to remote and sometimes asynchronous activities, changed the way we teach or design data visualization. This required teachers and designers to reinvent activities, adapt materials to be suitable for online delivery, reorganise procedures, replace physical tools with virtual, rethink collaboration and engagement, restructure or invent new activities. At the same time, moving activities online opens new possibilities to involve people across the world and in turn increase diversity and access.
-
-**The goals of this workshop are:**
-Building an understanding and to synthesize protocols and materials used to lead data vis activities (online and offline), to bring together researchers, practitioners, and educators from within and outside of the visualization community, brainstorm, design, experience, and try novel activities, and to discuss issues around goals, methods, audiences, materials, and evaluation for teaching data visualization. And also exchanges about the best teaching moment of the year.
-Download our [full proposal here](VIS2021_Vis_Activity_Workshop.pdf).
-
-
 ❤️ Enjoy your Vis experience ❤️
 
 ## Program:
@@ -62,6 +52,18 @@ Download our [full proposal here](VIS2021_Vis_Activity_Workshop.pdf).
 ##### 14:05-14:35	__Reporting on generated activities__
 ##### 14:35-15:05	__Setting the agenda & community building__ 
 ##### 15:05-15:30	__Wrap-up discussion__ 
+
+
+## Topics & Goals:
+Workshops, classes, or collaborations with domain experts often include hands-on data visualization activities that involve analog or digital tools and materials as well as more or less well-defined protocols. Recent years have seen the emergence of such data visualization activities in different contexts, including education, visualization design, activism, self-reflection, and interdisciplinary collaboration: for example, sketching aids designers to consider alternative ideas; manipulating tokens help students conceptualize quantities for data visualization; user interviews and discussions help developers understand requirements manipulating data help activist better understand social issues, etc.
+
+While many of these activities would naturally take place in a group setting, due to **the social distancing measures during the Covid-19 more and more of these activities are now happening online.** Switching from co-located and synchronous activities to remote and sometimes asynchronous activities, changed the way we teach or design data visualization. This required teachers and designers to reinvent activities, adapt materials to be suitable for online delivery, reorganise procedures, replace physical tools with virtual, rethink collaboration and engagement, restructure or invent new activities. At the same time, moving activities online opens new possibilities to involve people across the world and in turn increase diversity and access.
+
+**The goals of this workshop are:**
+Building an understanding and to synthesize protocols and materials used to lead data vis activities (online and offline), to bring together researchers, practitioners, and educators from within and outside of the visualization community, brainstorm, design, experience, and try novel activities, and to discuss issues around goals, methods, audiences, materials, and evaluation for teaching data visualization. And also exchanges about the best teaching moment of the year.
+Download our [full proposal here](VIS2021_Vis_Activity_Workshop.pdf).
+
+
 
 
 ## Program Committee:
