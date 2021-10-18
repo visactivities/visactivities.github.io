@@ -34,7 +34,7 @@ This workshop on _Data Vis Activities to Facilitate Learning, Reflecting, Discus
 
 * _[Miriah Meyer](https://miriah.github.io/)_ - [@miriah_meyer](https://twitter.com/miriah_meyer) - “Participatory Visualization Workshops”,
 * _[Michael Baker](https://scholar.google.com/citations?user=PimAOhsAAAAJ&hl=fr)_  “Diagrammatic representations of argument in CABLE (Collaborative Argumentation-Based Learning)” 
-* _[Isabelle Meireilles](https://www2.ocadu.ca/bio/isabel-meirelles-0)_  - [@IsabelMeirelles](https://twitter.com/IsabelMeirelles)- “Contextualizing Data in Situ”
+* _[Isabel Meirelles](https://www2.ocadu.ca/bio/isabel-meirelles-0)_  - [@IsabelMeirelles](https://twitter.com/IsabelMeirelles)- “Contextualizing Data in Situ”
 * _[Enrico Bertini](http://enrico.bertini.io/)_ - [@FILWD](https://twitter.com/filwd) - "Active Data Visualization Learning with Mini-Projects"
 
 ##### 10:22-11:25 __Panel Discussion & Challenge identification__
