@@ -5,7 +5,7 @@ Visualisation Activities to Facilitate Learning, Reflecting, Discussing, and Des
 
 This workshop on _Data Vis Activities to Facilitate Learning, Reflecting, Discussing, and Designing_ focuses on __data-visualization activities__, especially methods and challenges for teaching and engaging with data visualization concepts, knowledge, and practices. 
 
-To attend the workshop you should register to [VIS2021](http://ieeevis.org/year/2021/info/registration/conference-registration), it's free for students, and 40$ for researchers and professors, 25$ for members of IEEE, ACM, ICMB, and AMIA,free registration for individuals in need of financial assistance that reside in countries not included on the Diversity Admission list.. 
+To attend the workshop you should register to [VIS2021](http://ieeevis.org/year/2021/info/registration/conference-registration), it's free for students, and 40$ for researchers and professors, 25$ for members of IEEE, ACM, ICMB, and AMIA, free registration for individuals in need of financial assistance that reside in countries not included on the Diversity Admission list.. 
 
 ❤️ Enjoy your Vis experience ❤️
 
